@@ -41,7 +41,7 @@ A high-performance, feature-rich API load testing tool built with Python that su
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/api-load-tester.git
+git clone https://github.com/arctronic/api-load-tester
 cd api-load-tester
 
 # Install dependencies
